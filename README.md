@@ -112,12 +112,12 @@ Full-stack JEE app (Spring Boot/React) for real-time agri-environmental monitori
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mouad-Karma&show_icons=true&theme=default&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-Karma&layout=compact&hide_border=true" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mouad-Karma&show_icons=true&theme=default&hide_border=true" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mouad-Karma&layout=compact&hide_border=true" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mouad-Karma&hide_border=true" height="165">
+  <img src="https://streak-stats.demolab.com/?user=Mouad-Karma&hide_border=true" height="165">
 </p>
 
 ---
