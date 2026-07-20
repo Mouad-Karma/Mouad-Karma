@@ -3,8 +3,6 @@
 
 <p align="center">
   🎓 Master's student in Big Data & IoT @ ENSAM Casablanca<br>
-  🔍 Looking for a 2–3 month PFA internship in Data Science / Data Engineering / AI Engineering<br>
-  📍 Mohammedia, Morocco
 </p>
 
 <p align="center">
@@ -14,15 +12,7 @@
 
 ---
 
-### 🚀 What I'm building right now
 
-**[Study Assistant RAG](https://github.com/Mouad-Karma/REPO_NAME_HERE)** — a Retrieval-Augmented Generation system that lets you query course materials in natural language.
-- PDF ingestion & chunking with `PyMuPDF` + `LangChain`
-- Semantic search over `ChromaDB`
-- Context-grounded answers via `Groq API` (Llama 3.1)
-- Quiz generation + `Streamlit` interface
-
----
 
 ### 🧠 Focus areas
 
