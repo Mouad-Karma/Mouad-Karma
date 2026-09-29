@@ -41,7 +41,7 @@ Pipeline Data Engineering complet : ingestion multi-sources (CSV/API/PostgreSQL)
 </td>
 <td width="50%">
 
-**[Smart Land-Backend]((https://github.com/Mouad-Karma/SmartLand-Backend))**
+**[Smart Land-Backend](https://github.com/Mouad-Karma/SmartLand-Backend))**
 **[Smart Land — Big Data Pipeline](https://github.com/Mouad-Karma/End-to-End-IoT-Simulator-for-Big-Data-Agriculture-Pipeline)**
 Application Full-Stack JEE (Spring Boot/React) de suivi environnemental agricole avec flux temps réel : Flume → HDFS → Hive → PostgreSQL, APIs REST, Docker.
 
