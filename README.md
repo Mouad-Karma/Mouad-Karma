@@ -41,7 +41,8 @@ Pipeline Data Engineering complet : ingestion multi-sources (CSV/API/PostgreSQL)
 </td>
 <td width="50%">
 
-**[Smart Land — Big Data Pipeline](https://github.com/Mouad-Karma)**
+**[Smart Land-Backend]([https://github.com/Mouad-Karma](https://github.com/Mouad-Karma/SmartLand-Backend))**
+**[Smart Land — Big Data Pipeline](https://github.com/Mouad-Karma/End-to-End-IoT-Simulator-for-Big-Data-Agriculture-Pipeline)**
 Application Full-Stack JEE (Spring Boot/React) de suivi environnemental agricole avec flux temps réel : Flume → HDFS → Hive → PostgreSQL, APIs REST, Docker.
 
 </td>
@@ -49,7 +50,7 @@ Application Full-Stack JEE (Spring Boot/React) de suivi environnemental agricole
 <tr>
 <td width="50%">
 
-**[Assistant RAG — LLM & Recherche Sémantique](https://github.com/Mouad-Karma)**
+**[Assistant RAG — LLM & Recherche Sémantique]([https://github.com/Mouad-Karma](https://github.com/Mouad-Karma/rag-study-assistant))**
 Système RAG permettant d'interroger des supports de cours en langage naturel : ingestion PyMuPDF/LangChain, vectorisation ChromaDB, génération via Groq/LLM, UI Streamlit.
 
 </td>
