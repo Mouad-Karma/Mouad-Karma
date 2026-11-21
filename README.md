@@ -45,7 +45,7 @@
       <p><code>PySpark</code> <code>Delta Lake</code> <code>Airflow</code> <code>DuckDB</code></p>
        https://github.com/Mouad-Karma/end-to-end-lakehouse
        <p>
-        <a href="https://github.com/Mouad-Karma/end-to-end-lakehouse">end-to-end-lakehouse</a>
+        <a href="https://github.com/Mouad-Karma/end-to-end-lakehouse"> voire le projet  </a>
       </p>
     </td>
     <td width="50%" valign="top">
