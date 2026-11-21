@@ -43,6 +43,10 @@
         Analyse des ventes et des bénéfices par période et catégorie avec DuckDB SQL.
       </p>
       <p><code>PySpark</code> <code>Delta Lake</code> <code>Airflow</code> <code>DuckDB</code></p>
+       https://github.com/Mouad-Karma/end-to-end-lakehouse
+       <p>
+        <a href="https://github.com/Mouad-Karma/end-to-end-lakehouse">end-to-end-lakehouse</a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h4>🌱 Smart Land — Big Data & IoT</h4>
