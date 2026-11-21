@@ -176,4 +176,58 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Streamlit](
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+**Deployment, Monitoring & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F4B400?style=flat&logo=grafana&logoColor=white)
+
+---
+
+### 💼 Work Experience
+
+**Final-Year Internship (PFE) — Mobile Development & AI**  
+*Centrale Automobile Chérifienne (CAC) · April – June 2024*
+
+- Developed a vehicle appointment booking application using **Flutter/Dart** for iOS and Android.
+- Integrated an **OCR** module to extract vehicle registration document details and reduce manual data entry.
+- Implemented authentication and data storage with **Firebase/Firestore**, along with REST API integration.
+
+---
+
+### 📜 Certifications
+
+🏅 **[Associate Data Engineer in SQL](https://drive.google.com/file/d/10yWiYPuk3Eag3EafPaW6sJvKlBRLJeOX/view?usp=sharing)** — DataCamp · September 2026
+
+📚 **AWS Certified Cloud Practitioner** — In Progress
+
+---
+
+### 🌍 Languages
+
+**Arabic**: Native · **French**: Fluent · **English**: Fluent
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mouad-Karma&show_icons=true&theme=tokyonight&hide_border=true" width="47%" alt="Mouad Karma's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-Karma&layout=compact&theme=tokyonight&hide_border=true" width="47%" alt="Most Used Languages">
+</p>
+
+---
+
+<p align="center">
+  📬 Looking to collaborate on a project or discuss a Data & AI internship opportunity?<br>
+  <a href="mailto:karmamouad123@gmail.com">Contact me</a>
+  ·
+  <a href="https://www.linkedin.com/in/mouad-karma-731591282/">Connect on LinkedIn</a>
+</p>
